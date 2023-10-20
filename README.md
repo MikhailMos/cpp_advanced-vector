@@ -1,1 +1,2 @@
-# cpp_advanced-vector
+# cpp-advanced-vector
+Финальный проект: улучшенный контейнер вектор
